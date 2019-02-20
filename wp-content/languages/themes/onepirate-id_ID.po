@@ -1,0 +1,36 @@
+# Translation of Themes - OnePirate in Indonesian
+# This file is distributed under the same license as the Themes - OnePirate package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-24 06:24:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - OnePirate\n"
+
+#. Theme Name of the plugin/theme
+msgid "OnePirate"
+msgstr "OnePirate"
+
+#. Description of the plugin/theme
+msgid "One Pirate is a beautiful one-page WordPress theme, with a colorful and playful design, nice animations, full-screen layout, and elegant parallax effect. The theme comes with a full-width header and with catchy icons. Overall, One Pirate has a modern and interactive look, and a smooth transition from a section to another."
+msgstr "One Pirate adalah tema WordPress one-page yang cantik, dengan penuh warna dan desain menarik, animasi keren, tata letak penuh, dan efek parallax yang elegan. Tema ini datang dengan header yang penuh dan ikon yang enak dipandang. Secara keseluruhan, One Pirate memiliki penampilan yang modern dan interaktif, dan transisi halus dari bagian satu ke bagian lain."
+
+#: functions.php:57
+msgid "Notification"
+msgstr "Pemberitahuan"
+
+#: functions.php:46 functions.php:74
+msgid "This child theme is not maintained anymore, consider using the parent theme %1$s or check-out our latest free one-page theme: %2$s."
+msgstr "Tema anak ini sudah tidak dikelola lagi, pertimbangkan untuk menggunakan induk tema %1$s atau lihat tema one-page kami yang terbaru: %2$s."
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
